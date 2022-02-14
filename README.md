@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukas65536
-- 👀 I’m interested in Math, Programming, Gaming (Dark Souls, Minecraft and Terraria), Music (Metal, Expirmental and Hip Hop) and Anime
+- 👀 I’m interested in Math, Programming, Gaming (Dark Souls, Minecraft and Terraria), Music (Metal, Rock, Expirmental and Hip Hop) and Anime
 - 🌱 I’m currently learning Python (Pygame, Kivy and Tensorflow) and C
 
 <!---
